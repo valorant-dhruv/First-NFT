@@ -1,0 +1,11 @@
+{
+  "name": "Peter Griffin NFT",
+  "description": "This is my first NFT and it is a picture of peter griffin",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXA6seivzXgPpQipCF6nhjwgA8A7zfEFi68Z8xvqvfwqt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "black"
+    }
+  ]
+}

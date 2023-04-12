@@ -1,0 +1,11 @@
+{
+  "name": "Stewie Griffin NFT",
+  "description": "This is the second NFT involving the tilted head of stewie",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmb5UqukWvvaCgkjf77i2UqwiMVFKdZPuF7CwFVCMYHDRw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}
